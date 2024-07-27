@@ -1,0 +1,4 @@
+train: C:\Users\Edwin\Desktop\ProyectoRaza\pythonProject\DataCocker\train\
+val: C:\Users\Edwin\Desktop\ProyectoRaza\pythonProject\DataCocker\val\
+nc: 1
+names: ["Cocker"]

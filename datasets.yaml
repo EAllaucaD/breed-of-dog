@@ -1,0 +1,4 @@
+train: C:\Users\Edwin\Desktop\ProyectoRaza\pythonProject\DataSchnauzer\train\
+val: C:\Users\Edwin\Desktop\ProyectoRaza\pythonProject\DataSchnauzer\val\
+nc: 1
+names: ["Schnauzer"]
