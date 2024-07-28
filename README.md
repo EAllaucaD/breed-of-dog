@@ -1,6 +1,6 @@
 # USO DE LIBRERÍAS E INSTALACIÓN.
 Esta sección es para ejecutar labelme.
-# Instala la herramienta de etiquetado:
+## Instala la herramienta de etiquetado:
 pip install labelme
 
 # Si te pide actualizar pip:
@@ -33,12 +33,8 @@ Se uso yolov8n por la capacidad del computador
 yolo task=segment mode=train epochs=30 data=dataset.yaml model=yolov8n-seg.pt imgsz=640 batch=2
 
 # EJECUTAR LA APLICACIÓN:
--De donde guarde se aplicación cambiar las rutas donde se encuentra el train y el val y pegarlas.
-
-![image](https://github.com/user-attachments/assets/cd4d8152-43bb-450f-a4da-b82d99a29118)
 
 -Abrir alguno de los archivos .py
-
 
 -Darle en ejecutar y necesidad de una cámara. Con esto mostrar una imagen a mostrar para identificación de raza.
 
