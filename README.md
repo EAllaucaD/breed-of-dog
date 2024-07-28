@@ -30,6 +30,7 @@ pip install ultralytics
 # USO DE LA RED NEURONAL
 ## Entrena tu red neuronal:
 Se uso yolov8n por la capacidad del computador
+
 yolo task=segment mode=train epochs=30 data=dataset.yaml model=yolov8n-seg.pt imgsz=640 batch=2
 
 # EJECUTAR LA APLICACIÓN:
